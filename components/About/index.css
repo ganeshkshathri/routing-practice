@@ -1,0 +1,12 @@
+/* Write your CSS code here */
+.conatainer {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .imgsize {
+    height: 50vh;
+  }
+  
